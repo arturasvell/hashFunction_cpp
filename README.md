@@ -9,5 +9,5 @@ Programa, panaši į HashFunction C#, tik leidžianti dirbti su Command Line arg
   - Trečiajame testiniame faile atsitiktinai sugeneruoti 1000+ simbolių
   - Ketvirtajame testiniame faile pakeistas vienas simbolis iš trečiame faile esančios eilutės
   - Penktasis ir šeštasis testiniai failai sugeneruoti atsitiktinai (TBD)
-  ![Rezultatas}(https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result1.png)
+  ![Rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result1.png)
   
