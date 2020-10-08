@@ -12,6 +12,7 @@ Programa, panaši į HashFunction C#, tik leidžianti dirbti su Command Line arg
   ![Rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result1.png)
   ![Antro bandymo rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result2.png)
 - Konstitucija.txt spartos analizė
+  ![Trečio bandymo rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result3.png)
 - 100 000 string analizė
   -Bitų, hex skirtingumas bei kolizijos testas vykdomas kartu
   ![Ketvirto bandymo rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result4.png)
