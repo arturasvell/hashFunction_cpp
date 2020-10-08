@@ -16,3 +16,8 @@ Programa, panaši į HashFunction C#, tik leidžianti dirbti su Command Line arg
   -Bitų, hex skirtingumas bei kolizijos testas vykdomas kartu
   ![Ketvirto bandymo rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result4.png)
   
+# Stiprybės
+- Sparta
+- Neblogas atsparumas kolizijai
+# Silpnybės
+- Silpnas binary vidutinis skirtingumas
