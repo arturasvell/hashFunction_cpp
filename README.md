@@ -13,5 +13,6 @@ Programa, panaši į HashFunction C#, tik leidžianti dirbti su Command Line arg
   ![Antro bandymo rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result2.png)
 - Konstitucija.txt spartos analizė
 - 100 000 string analizė
+  -Bitų, hex skirtingumas bei kolizijos testas vykdomas kartu
   ![Ketvirto bandymo rezultatas](https://github.com/arturasvell/hashFunction_cpp/blob/0.09/result4.png)
   
