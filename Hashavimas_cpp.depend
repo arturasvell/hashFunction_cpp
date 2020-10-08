@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602154191 source:d:\arturo_kompas\vu\antras_kursas\hashavimas_cpp\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<sstream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<bitset>
+	<algorithm>
+
